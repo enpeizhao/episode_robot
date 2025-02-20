@@ -25,11 +25,11 @@
 
 **应用**：已实现手眼标定（眼在手上、眼在手外）、3D、6D抓取等。
 
-<img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/202502111259136.png?x-oss-process=style/wp" style="zoom: 33%;" />
+<img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/202502111259136.png?x-oss-process=style/wp" style="zoom: 25%;" />
 
 **视频演示**：[B站点击播放](https://www.bilibili.com/video/BV1KJwNepESk/?spm_id_from=333.1387.0.0&vd_source=39b1662212679b11469d17d3bee8df4e)
 
-<img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/202502201231788.png?x-oss-process=style/wp" style="zoom: 25%;" />
+[<img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/202502201231788.png?x-oss-process=style/wp" alt="示例图片" style="zoom:25%;" />](https://www.bilibili.com/video/BV1KJwNepESk/?spm_id_from=333.1387.0.0&vd_source=39b1662212679b11469d17d3bee8df4e)
 
 ## 二、原理图：
 
