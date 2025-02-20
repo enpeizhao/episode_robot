@@ -20,7 +20,9 @@
 
 **夹爪**：负压真空夹爪，25KG 舵机2指柔性夹爪。
 **软件**：ROBODK上位机，正逆解算，拖拽示教，TCP 协议API编程，3D、6D抓取网络，多模态VLM、LLM等。
+
 **SDK API**：TCP协议的API，支持各种编程语言，API有角度移动模式（MoveJ）、坐标位置模式、欧拉角模式、直线运动模式（MoveL）。
+
 **应用**：已实现手眼标定（眼在手上、眼在手外）、3D、6D抓取等。
 
 <img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/202502111259136.png?x-oss-process=style/wp" style="zoom: 33%;" />
